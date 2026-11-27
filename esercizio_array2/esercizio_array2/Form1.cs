@@ -16,5 +16,11 @@ namespace esercizio_array2
         {
             InitializeComponent();
         }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            
+           
+        }
     }
 }
